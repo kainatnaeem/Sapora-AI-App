@@ -1,5 +1,3 @@
-# Sapora-AI-App
-Sapora is an AI-powered image analysis app that understands images, scans receipts, extracts useful information, and provides intelligent insights. Built with React, FastAPI, Firebase, and OpenAI.
 
 # 🌿 Sapora — AI-Powered VLM Application
 
@@ -29,5 +27,5 @@ Sapora also includes a dedicated **AI Receipt Scanner** that can understand rece
 
 This repository presents the visual interface and key features of Sapora through screenshots.
 
-For the complete source code and technical implementation, visit the main **Sapora** repository.
+
 
